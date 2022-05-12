@@ -8,7 +8,7 @@ LICENSE: [MIT](./license.md)
 ---
 ## Содержание
 1. [Начало работы с GIT](./begin.md)
-2. Создание репозитория [git init](./init.md) и [git clone]()
+2. Создание репозитория [git init](./init.md) и [git clone](/clone.md)
 3. Добавление файлов в индекс [git add](./add.md)
 4. Фиксация изменений [git commit](/commit.md)
 5. Отправка изменений в репозиторий [git push](/push.md)
